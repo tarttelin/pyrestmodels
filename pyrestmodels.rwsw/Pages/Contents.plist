@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>HomePage</key>
+				<string>1-Overview</string>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>1-Overview</string>
+				<string>2-XML-Models</string>
+				<string>3-JSON-Models</string>
+				<string>4-Finders</string>
+				<string>5-Testing</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Pages</string>
+</dict>
+</plist>

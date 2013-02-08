@@ -1,0 +1,685 @@
+########  Init  ########
+########  Add (1)  ########
+########  Add (8)  ########
+########  creating rmSandwich for save  ########
+########  yhSandwich check integrity  ########
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(5)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0xbd9180>
+-[YHSandwich RMSandwichWithType:version:build:]: ------------------------------------------------------------------------
+-[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.1.7 (879) - Thu, 17 Jan 2013 08:00:52 +0000
+-[YHSandwich RMSandwichWithType:version:build:]: --------------------------------- save ---------------------------------
+-[YHSandwich setFile:forKey:]: 
+    url: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-98553/log-TUJxsS.txt
+    key: log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-98553/log-TUJxsS.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/CFC78747-8364-418D-818E-F77099F0EDC8/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/CFC78747-8364-418D-818E-F77099F0EDC8/log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/CFC78747-8364-418D-818E-F77099F0EDC8/log.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/182B134A-4ECB-41CC-842F-7D80EA4B3922/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/182B134A-4ECB-41CC-842F-7D80EA4B3922/log.txt
+########  creating rmSandwich for save  ########
+########  yhSandwich check integrity  ########
+-[YHSandwich urlForFilename:]: 
+    filename: log.txt
+-[YHSandwich urlForFilename:]: return: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/CFC78747-8364-418D-818E-F77099F0EDC8/log.txt
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(5)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0xe7a0c0>
+-[YHSandwich RMSandwichWithType:version:build:]: ------------------------------------------------------------------------
+-[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.1.7 (879) - Thu, 17 Jan 2013 15:53:41 +0000
+-[YHSandwich RMSandwichWithType:version:build:]: --------------------------------- save ---------------------------------
+-[YHSandwich setFile:forKey:]: 
+    url: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-98553/log-Mg6ISw.txt
+    key: log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-98553/log-Mg6ISw.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/CFC78747-8364-418D-818E-F77099F0EDC8/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: about to remove item
+-[YHSandwich copy:to:withName:]: finished remove item
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/CFC78747-8364-418D-818E-F77099F0EDC8/log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/CFC78747-8364-418D-818E-F77099F0EDC8/log.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/AD9ACA39-8CCC-41DA-B66F-D6719165E628/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/AD9ACA39-8CCC-41DA-B66F-D6719165E628/log.txt
+########  creating rmSandwich for save  ########
+########  yhSandwich check integrity  ########
+-[YHSandwich urlForFilename:]: 
+    filename: log.txt
+-[YHSandwich urlForFilename:]: return: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/CFC78747-8364-418D-818E-F77099F0EDC8/log.txt
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(5)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x33d40ec0>
+-[YHSandwich RMSandwichWithType:version:build:]: ------------------------------------------------------------------------
+-[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.1.7 (879) - Thu, 17 Jan 2013 16:04:12 +0000
+-[YHSandwich RMSandwichWithType:version:build:]: --------------------------------- save ---------------------------------
+-[YHSandwich setFile:forKey:]: 
+    url: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-98553/log-dVbHho.txt
+    key: log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-98553/log-dVbHho.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/CFC78747-8364-418D-818E-F77099F0EDC8/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: about to remove item
+-[YHSandwich copy:to:withName:]: finished remove item
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/CFC78747-8364-418D-818E-F77099F0EDC8/log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/CFC78747-8364-418D-818E-F77099F0EDC8/log.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/3CC481FB-A038-40CF-BF38-4E1F46B9575C/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/3CC481FB-A038-40CF-BF38-4E1F46B9575C/log.txt
+########  creating rmSandwich for save  ########
+########  yhSandwich check integrity  ########
+-[YHSandwich urlForFilename:]: 
+    filename: log.txt
+-[YHSandwich urlForFilename:]: return: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/CFC78747-8364-418D-818E-F77099F0EDC8/log.txt
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(5)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x1fcd83b0>
+-[YHSandwich RMSandwichWithType:version:build:]: ------------------------------------------------------------------------
+-[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.1.7 (879) - Mon, 21 Jan 2013 09:05:17 +0000
+-[YHSandwich RMSandwichWithType:version:build:]: --------------------------------- save ---------------------------------
+-[YHSandwich initWithRMSandwich:version:build:]: --------------------------------- open ---------------------------------
+-[YHSandwich initWithRMSandwich:version:build:]: - - Stacks v2.1.7 (879) - Sun, 03 Feb 2013 19:38:34 +0000
+-[YHSandwich initWithRMSandwich:version:build:]: ------------------------------------------------------------------------
+########  copy files to yhSandwich  ########
+-[YHSandwich setFile:forKey:]: 
+    url: file://localhost/Users/pyruby/Documents/pyrestmodels.rwsw/Pages/1-Overview/Data/log.txt
+    key: log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/Users/pyruby/Documents/pyrestmodels.rwsw/Pages/1-Overview/Data/log.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+########  copy dictionary to yhSandwich  ########
+########  unarchive stacks data from sandwich  ########
+-[YHSandwich initWithRMSandwich:version:build:]: file saved with Stacks build #879 opened with build #879
+########  copy subsandwiches to yhSandwich  ########
+########  done creating yhSandwich  ########
+########  yhSandwich prune  ########
+########  yhSandwich check integrity  ########
+-[YHSandwich urlForFilename:]: 
+    filename: log.txt
+-[YHSandwich urlForFilename:]: return: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+-[YHStacksPlugin initWithSandwich:]: done initing stacks page
+########  creating rmSandwich for save  ########
+########  yhSandwich check integrity  ########
+-[YHSandwich urlForFilename:]: 
+    filename: log.txt
+-[YHSandwich urlForFilename:]: return: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(5)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0xce3b60>
+-[YHSandwich RMSandwichWithType:version:build:]: ------------------------------------------------------------------------
+-[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.1.7 (879) - Sun, 03 Feb 2013 19:45:01 +0000
+-[YHSandwich RMSandwichWithType:version:build:]: --------------------------------- save ---------------------------------
+-[YHSandwich setFile:forKey:]: 
+    url: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-I6tM36.txt
+    key: log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-I6tM36.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: about to remove item
+-[YHSandwich copy:to:withName:]: finished remove item
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/219EF73F-8CE1-4062-91BA-8F386DE44F1D/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/219EF73F-8CE1-4062-91BA-8F386DE44F1D/log.txt
+########  creating rmSandwich for save  ########
+########  yhSandwich check integrity  ########
+-[YHSandwich urlForFilename:]: 
+    filename: log.txt
+-[YHSandwich urlForFilename:]: return: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(5)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x1efcfec0>
+-[YHSandwich RMSandwichWithType:version:build:]: ------------------------------------------------------------------------
+-[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.1.7 (879) - Sun, 03 Feb 2013 19:49:16 +0000
+-[YHSandwich RMSandwichWithType:version:build:]: --------------------------------- save ---------------------------------
+-[YHSandwich setFile:forKey:]: 
+    url: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-xEaES1.txt
+    key: log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-xEaES1.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: about to remove item
+-[YHSandwich copy:to:withName:]: finished remove item
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/7C7672D4-3DD3-413B-B7E0-BE8ADEC5A896/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/7C7672D4-3DD3-413B-B7E0-BE8ADEC5A896/log.txt
+########  creating rmSandwich for save  ########
+########  yhSandwich check integrity  ########
+-[YHSandwich urlForFilename:]: 
+    filename: log.txt
+-[YHSandwich urlForFilename:]: return: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(5)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0xdbee50>
+-[YHSandwich RMSandwichWithType:version:build:]: ------------------------------------------------------------------------
+-[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.1.7 (879) - Mon, 04 Feb 2013 21:33:58 +0000
+-[YHSandwich RMSandwichWithType:version:build:]: --------------------------------- save ---------------------------------
+-[YHSandwich setFile:forKey:]: 
+    url: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-Dyu0Yu.txt
+    key: log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-Dyu0Yu.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: about to remove item
+-[YHSandwich copy:to:withName:]: finished remove item
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/643224E4-5FFF-4D03-B3E7-6BA3168E00DB/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/643224E4-5FFF-4D03-B3E7-6BA3168E00DB/log.txt
+########  creating rmSandwich for save  ########
+########  yhSandwich check integrity  ########
+-[YHSandwich urlForFilename:]: 
+    filename: log.txt
+-[YHSandwich urlForFilename:]: return: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(5)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x1f9233f0>
+-[YHSandwich RMSandwichWithType:version:build:]: ------------------------------------------------------------------------
+-[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.1.7 (879) - Mon, 04 Feb 2013 21:37:30 +0000
+-[YHSandwich RMSandwichWithType:version:build:]: --------------------------------- save ---------------------------------
+-[YHSandwich setFile:forKey:]: 
+    url: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-wSGfv5.txt
+    key: log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-wSGfv5.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: about to remove item
+-[YHSandwich copy:to:withName:]: finished remove item
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/3FA6A5AA-DEEA-4F29-B843-210FF10C55D9/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/3FA6A5AA-DEEA-4F29-B843-210FF10C55D9/log.txt
+########  creating rmSandwich for save  ########
+########  yhSandwich check integrity  ########
+-[YHSandwich urlForFilename:]: 
+    filename: log.txt
+-[YHSandwich urlForFilename:]: return: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(5)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x24630bc0>
+-[YHSandwich RMSandwichWithType:version:build:]: ------------------------------------------------------------------------
+-[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.1.7 (879) - Mon, 04 Feb 2013 22:21:46 +0000
+-[YHSandwich RMSandwichWithType:version:build:]: --------------------------------- save ---------------------------------
+-[YHSandwich setFile:forKey:]: 
+    url: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-VMJcjf.txt
+    key: log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-VMJcjf.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: about to remove item
+-[YHSandwich copy:to:withName:]: finished remove item
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/8B4DD85D-D5B9-42F3-8775-6D00363B9202/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/8B4DD85D-D5B9-42F3-8775-6D00363B9202/log.txt
+########  creating rmSandwich for save  ########
+########  yhSandwich check integrity  ########
+-[YHSandwich urlForFilename:]: 
+    filename: log.txt
+-[YHSandwich urlForFilename:]: return: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(5)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x1f948630>
+-[YHSandwich RMSandwichWithType:version:build:]: ------------------------------------------------------------------------
+-[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.1.7 (879) - Mon, 04 Feb 2013 22:24:50 +0000
+-[YHSandwich RMSandwichWithType:version:build:]: --------------------------------- save ---------------------------------
+-[YHSandwich setFile:forKey:]: 
+    url: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-PniNCx.txt
+    key: log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-PniNCx.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: about to remove item
+-[YHSandwich copy:to:withName:]: finished remove item
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/30E1B816-3CC3-44B0-B47B-DA4FE50E9547/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/30E1B816-3CC3-44B0-B47B-DA4FE50E9547/log.txt
+########  creating rmSandwich for save  ########
+########  yhSandwich check integrity  ########
+-[YHSandwich urlForFilename:]: 
+    filename: log.txt
+-[YHSandwich urlForFilename:]: return: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(5)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x1f93c870>
+-[YHSandwich RMSandwichWithType:version:build:]: ------------------------------------------------------------------------
+-[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.1.7 (879) - Mon, 04 Feb 2013 22:49:26 +0000
+-[YHSandwich RMSandwichWithType:version:build:]: --------------------------------- save ---------------------------------
+-[YHSandwich setFile:forKey:]: 
+    url: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-d6loJq.txt
+    key: log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-d6loJq.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: about to remove item
+-[YHSandwich copy:to:withName:]: finished remove item
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/70DF533B-7D8B-4017-B083-80A6E0BDB110/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/70DF533B-7D8B-4017-B083-80A6E0BDB110/log.txt
+########  creating rmSandwich for save  ########
+########  yhSandwich check integrity  ########
+-[YHSandwich urlForFilename:]: 
+    filename: log.txt
+-[YHSandwich urlForFilename:]: return: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(5)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x25031930>
+-[YHSandwich RMSandwichWithType:version:build:]: ------------------------------------------------------------------------
+-[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.1.7 (879) - Mon, 04 Feb 2013 22:50:45 +0000
+-[YHSandwich RMSandwichWithType:version:build:]: --------------------------------- save ---------------------------------
+-[YHSandwich setFile:forKey:]: 
+    url: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-m1FKjQ.txt
+    key: log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-m1FKjQ.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: about to remove item
+-[YHSandwich copy:to:withName:]: finished remove item
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/011B3B37-DBDE-464F-AB53-5D7A91914752/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/011B3B37-DBDE-464F-AB53-5D7A91914752/log.txt
+########  Add (31)  ########
+########  Remove (31)  ########
+########  Remove (31)  ########
+########  Add (50)  ########
+########  creating rmSandwich for save  ########
+########  yhSandwich check integrity  ########
+-[YHSandwich urlForFilename:]: 
+    filename: log.txt
+-[YHSandwich urlForFilename:]: return: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(5)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x25039780>
+-[YHSandwich RMSandwichWithType:version:build:]: ------------------------------------------------------------------------
+-[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.1.7 (879) - Mon, 04 Feb 2013 23:27:03 +0000
+-[YHSandwich RMSandwichWithType:version:build:]: --------------------------------- save ---------------------------------
+-[YHSandwich setFile:forKey:]: 
+    url: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-FP1Vw6.txt
+    key: log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-FP1Vw6.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: about to remove item
+-[YHSandwich copy:to:withName:]: finished remove item
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/D43DE36E-9427-429E-B343-9F7760528B53/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/D43DE36E-9427-429E-B343-9F7760528B53/log.txt
+########  creating rmSandwich for save  ########
+########  yhSandwich check integrity  ########
+-[YHSandwich urlForFilename:]: 
+    filename: log.txt
+-[YHSandwich urlForFilename:]: return: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(5)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x2466b5d0>
+-[YHSandwich RMSandwichWithType:version:build:]: ------------------------------------------------------------------------
+-[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.1.7 (879) - Mon, 04 Feb 2013 23:34:31 +0000
+-[YHSandwich RMSandwichWithType:version:build:]: --------------------------------- save ---------------------------------
+-[YHSandwich setFile:forKey:]: 
+    url: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-juTN1o.txt
+    key: log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-juTN1o.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: about to remove item
+-[YHSandwich copy:to:withName:]: finished remove item
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/34D7BF9D-3C24-4BCC-9220-3BB8EED740E5/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/34D7BF9D-3C24-4BCC-9220-3BB8EED740E5/log.txt
+########  creating rmSandwich for save  ########
+########  yhSandwich check integrity  ########
+-[YHSandwich urlForFilename:]: 
+    filename: log.txt
+-[YHSandwich urlForFilename:]: return: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(5)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x24672fb0>
+-[YHSandwich RMSandwichWithType:version:build:]: ------------------------------------------------------------------------
+-[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.1.7 (879) - Fri, 08 Feb 2013 08:23:24 +0000
+-[YHSandwich RMSandwichWithType:version:build:]: --------------------------------- save ---------------------------------
+-[YHSandwich setFile:forKey:]: 
+    url: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-3dnSh0.txt
+    key: log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-3dnSh0.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: about to remove item
+-[YHSandwich copy:to:withName:]: finished remove item
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/AA16A78E-C7A2-446F-93BA-C02501ED5706/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/AA16A78E-C7A2-446F-93BA-C02501ED5706/log.txt
+########  creating rmSandwich for save  ########
+########  yhSandwich check integrity  ########
+-[YHSandwich urlForFilename:]: 
+    filename: log.txt
+-[YHSandwich urlForFilename:]: return: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(5)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x2468bb10>
+-[YHSandwich RMSandwichWithType:version:build:]: ------------------------------------------------------------------------
+-[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.1.7 (879) - Fri, 08 Feb 2013 09:07:19 +0000
+-[YHSandwich RMSandwichWithType:version:build:]: --------------------------------- save ---------------------------------
+-[YHSandwich setFile:forKey:]: 
+    url: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-d29bSg.txt
+    key: log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/var/folders/Ns/Ns+NaVDNH2eaY9mO9qyx1U+++TI/-Tmp-/com.realmacsoftware.rapidweaverpro-46407/log-d29bSg.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: about to remove item
+-[YHSandwich copy:to:withName:]: finished remove item
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+########  yhSandwich copy  ########
+-[YHSandwich copy:to:withName:]: 
+    source: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+    destination dir:file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/5C7F7AB2-8C0F-4A8A-BE55-6E829772BDAD/
+    new name:log.txt
+-[YHSandwich copy:to:withName:]: pre-copy listing: (
+)
+-[YHSandwich copy:to:withName:]: about to copy item
+-[YHSandwich copy:to:withName:]: finished copy item
+-[YHSandwich copy:to:withName:]: post-copy listing: (
+    "log.txt"
+)
+-[YHSandwich copy:to:withName:]: return destination: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/5C7F7AB2-8C0F-4A8A-BE55-6E829772BDAD/log.txt
+########  creating rmSandwich for save  ########
+########  yhSandwich check integrity  ########
+-[YHSandwich urlForFilename:]: 
+    filename: log.txt
+-[YHSandwich urlForFilename:]: return: file://localhost/Users/pyruby/Library/Caches/com.yourhead.YHStacksKit/F91D6A89-723B-4089-A84B-54350F784ED5/log.txt
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : Image(5)
+
+-[YHNodeImage encodeWithCoder:]: image node : encode with coder : coder : <NSKeyedArchiver: 0x1fa499b0>
+-[YHSandwich RMSandwichWithType:version:build:]: ------------------------------------------------------------------------
+-[YHSandwich RMSandwichWithType:version:build:]: - - Stacks v2.1.7 (879) - Fri, 08 Feb 2013 09:08:05 +0000
+-[YHSandwich RMSandwichWithType:version:build:]: --------------------------------- save ---------------------------------
